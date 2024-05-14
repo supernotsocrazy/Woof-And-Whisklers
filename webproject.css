@@ -1,0 +1,340 @@
+
+	#wrapper{
+		Width: 80%;
+		min-width: 960px;
+		max-width: 2048px;
+		margin-right: auto;
+		margin-left: auto;
+		background-color: #177b63;
+		border: 1px solid #000000;
+		box-shadow: 5px 5px 10px;
+		}
+	
+	#coverpage{
+		height: 300px;
+		width: auto;
+		Background-image:url(images/coverpage.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 92%;
+		padding-bottom: 25px;
+		}
+		
+	#family{
+		height: 320px;
+		width: 215px;
+		Background-image:url(images/familydog.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#sitdog{
+		height: 320px;
+		width: 215px;
+		Background-image:url(images/sitdog.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#Ali{
+		height: 320px;
+		width:320px;
+		Background-image:url(images/Ali.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#Jessica{
+		height: 320px;
+		width: 290px;
+		Background-image:url(images/Jessica.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+	
+	#Debra{
+		height: 320px;
+		width: 300px;
+		Background-image:url(images/Debra.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#Kittens{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/Kittens.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#Puppy{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/3dogs.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+	
+	#submit {
+			grid-column: 2/3;
+			width:9em
+		}
+	
+	#blackdog{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/blackdog.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+	
+	#dogwrope{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/dogwrope.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#dogyawning{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/dogyawning.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+	
+	#twindog{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/twindog.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#blackcat{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/blackcat.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+	
+	#catpiano{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/catpiano.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	#sleepycat{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/sleepycat.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+	
+	#babycat{
+		height: 320px;
+		width: 350px;
+		Background-image:url(images/babycat.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		margin: auto;
+		margin-bottom: 20px;
+		box-shadow: 3px 3px 5px;
+		}
+		
+	.home{
+		font-size:1.2em;
+		color: #FFFFFF;
+	}
+	
+	.white{
+		color: #FFFFFF;
+		font-size: 0.9em;
+		}
+	
+	
+	main{
+		margin-bottom: 20px;
+		}
+	
+	section{
+		float: left;
+		width: 33%;
+		}
+	
+	nav{
+		text-align: center;
+		font-size: 3em;
+		padding-top: 5px;
+		padding-bottom:5px;
+		border:2px #000000;
+	}
+	
+	nav a {
+		text-decoration: none;
+		color: #ffffff;
+		}
+		
+	nav a:link {
+		color: #ffffff;
+		}
+		
+	nav a:visited {
+		color: #ffffff;
+		}
+		
+	nav a:hover {
+		color: #fcfc03;
+		}
+
+	p {
+		text-align: center;
+		color: #FFFFFF;
+		font-size:1.2em;
+		}
+		
+	h2{
+		text-align: center;
+		color: #FFFFFF
+		}
+		
+	footer{
+		padding-top: 5px;
+		padding-bottom:5px;
+		color: #FFFFFF;
+		text-align: center;
+		font-size: 0.9em;
+		background-color: #5F5F5f;
+		clear:both
+		}
+	
+	footer a:link {
+		color: #FFFFFF;
+		}
+	
+	table {
+		border: 2px solid #000000;
+		width:90%;
+		border-collapse: collapse;
+		color: #FFFFFF;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 5px;
+		}
+	
+	th {
+		padding: 5px;
+		border: 2px solid #000000;
+		color: #FFFFFF;
+		font-size: 1.4em;
+		}
+		
+	td {
+		padding: 5px;
+		border: 2px solid #000000;
+		text-align: center;
+		color: #FFFFFF;
+			font-size: 1.2em;
+		}
+		
+	form { 
+		padding-right: 12em;
+		display: flex;
+        flex-direction: column;
+		width: 60%;
+		display: grid;
+		grid-template-columns:  10em;
+		grid-gap: 1em;
+		color: #FFFFFF;
+		font-size: 1.2em;
+		margin: auto;
+		 }
+	
+	label{
+		text-align:right;
+	}
+	
+	input, textarea {
+		margin-bottom: 0.5em;
+	}
+	
+	input {
+	  background-color:white;
+	  border: solid 2px;
+	  color: black;
+	  text-decoration: none;
+	  margin: 2px 2px;
+	  padding: 10px;
+	  cursor: pointer;
+		}
+	
+	textarea {
+	  background-color:white;
+	  border: solid 2px;
+	  color: black;
+	  text-decoration: none;
+	  margin: 2px 2px;
+	  padding: 10px ;
+	  cursor: pointer;
+		}
+	
+	.center{
+		height:auto;
+		width:70%;
+		margin: auto;
+		}
+	
+	.top{
+		margin-top: 0em;
+		}
+	
+	.bottom{
+				margin-bottom: 0em;
+		}
+	
